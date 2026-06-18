@@ -295,10 +295,11 @@ If you use this code or build on these results, please cite:
 
 ```bibtex
 @article{Doyle2026_QNM,
-  title   = {A Quasinormal Mode Template for the Primordial Power Spectrum},
+  title   = {mode-IV: A Quasinormal Mode Template for the Primordial Power Spectrum},
   author  = {Doyle, Zac},
   year    = {2026},
   note    = {arXiv: [pending]},
+  doi     = {10.5281/zenodo.20740495}
 }
 ```
 
