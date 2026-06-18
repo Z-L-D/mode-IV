@@ -1,0 +1,22 @@
+# Build artifacts
+*.o
+class_qnm/class
+class_qnm/.deps/
+class_qnm/build/
+
+# Bulk outputs (regenerable)
+class_qnm/output/*.dat
+!class_qnm/output/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+class_qnm/

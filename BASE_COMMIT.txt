@@ -1,0 +1,5 @@
+CLASS base commit: e85808324f51fc694d12e3ed7439552a3c3f9540
+Describes as:      v3.3.4
+Upstream:          https://github.com/lesgourg/class_public
+Patch applies cleanly onto this exact commit.
+Generated:         2026-06-11T23:45:26Z
